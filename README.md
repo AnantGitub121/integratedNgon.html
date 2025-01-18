@@ -47,7 +47,7 @@
         Embedded Browser (Incognito Simulation)
     </div>
     <div class="iframe-container">
-        <iframe src="https://www.example.com" title="Embedded Website"></iframe>
+       <iframe src="[https://www.example.com](https://valsamisphysics.com/sidescroller/index.html)" title="NGON"></iframe>
     </div>
 </body>
 </html>
